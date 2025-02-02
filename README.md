@@ -6,10 +6,36 @@ Welcome to the game **Where I am** project! This JavaFX application simulates a 
 - **Instruction Validation**: The program checks if the instructions are valid and ensures the player stays within the grid bounds.
 - **Interactive GUI**: A user-friendly interface makes it easy to input instructions and see the results instantly.
 
-## How It Works
-1. **Enter Instructions**: Provide a set of commands like `U1L2D6U2R3` (Up 1, Left 2, Down 6, Up 2, Right 3).
-2. **Define the Grid**: Specify the number of rows and columns for the grid.
-3. **Traverse the Path**: Click the **Traverse the Path** button to see where the player ends up.
+### **Game Overview**
+- The player starts at position `(0, 0)` (the top-left corner of the grid).
+- You provide a set of instructions (e.g., `U1L2D6U2R3`) to move the player **Up**, **Down**, **Left**, or **Right**.
+- The program validates the instructions and calculates the player’s final position on the grid.
+
+---
+
+### **Instruction Rules**
+The instructions are written in a specific format:
+- Each command consists of a **letter** (U, D, L, R) followed by a **number** (0-9).
+- Commands are case-sensitive and must be in pairs (e.g., `U1`, `D2`, `L3`, `R4`).
+
+#### **Valid Commands**
+| Command | Description          | Example       |
+|---------|----------------------|---------------|
+| `U`     | Move **Up**          | `U3` (Up 3)   |
+| `D`     | Move **Down**        | `D2` (Down 2) |
+| `L`     | Move **Left**        | `L9` (Left 9) |
+| `R`     | Move **Right**       | `R1` (Right 1)|
+
+---
+
+### **Validation Rules**
+The program checks if the instruction set is valid. An instruction set is **invalid** if:
+1. It contains any letter other than `U`, `D`, `L`, or `R` (e.g., `U2A3`).
+2. It is less than 2 characters long (e.g., `U`).
+3. It has an odd length (e.g., `U1D3U`).
+4. A command is a valid letter but is not followed by a number (e.g., `U1DU`).
+
+---
 
 ## Example
 - **Input**: `D2R2U1R1`  
