@@ -13,7 +13,7 @@ import javafx.event.ActionEvent;
    tells you where you are based on how big your
    2d grid is, this grid is set by you and also based on
    instructions given by ypu to the game determine where are you.
-   @author Ayush Ahir 3789357
+   @author Ayush Ahir
 */
 public class Where_I_am extends Application{
    
