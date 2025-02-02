@@ -54,7 +54,7 @@ Here’s what the program looks like in action:
 | ![Image 1](https://github.com/BitByBit-05/Where-I-am_Game/blob/main/Output.png?raw=true) | ![Image 2](https://github.com/BitByBit-05/Where-I-am_Game/blob/main/VisualR.png?raw=true) |
 
 ### Out of Bounds
-![Out of Bounds](https://github.com/your-username/BlackJack_Game/raw/main/pathway_outofbounds.png)
+![Out of Bounds](https://github.com/BitByBit-05/Where-I-am_Game/blob/main/OutOfBounds.png?raw=true)
 
 ### Invalid Instruction Set
 ![Invalid Instruction Set](https://github.com/your-username/BlackJack_Game/raw/main/pathway_invalid.png)
