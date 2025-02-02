@@ -25,7 +25,7 @@ Here’s what the program looks like in action:
 ### Valid Instruction Set
 | Output | Visual Representation |
 |---------|---------|
-| ![Image 1](https://github.com/your-username/repo-name/raw/main/image1.png) | ![Image 2](https://github.com/your-username/repo-name/raw/main/image2.png) |
+| ![Image 1](https://github.com/BitByBit-05/Where-I-am_Game/blob/main/Output.png?raw=true) | ![Image 2](https://github.com/BitByBit-05/Where-I-am_Game/blob/main/VisualR.png?raw=true) |
 
 ### Out of Bounds
 ![Out of Bounds](https://github.com/your-username/BlackJack_Game/raw/main/pathway_outofbounds.png)
