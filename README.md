@@ -20,7 +20,7 @@ Welcome to the game **Where I am** project! This JavaFX application simulates a 
 Here’s what the program looks like in action:
 
 ### Initial Launch
-![Initial Launch](https://github.com/your-username/BlackJack_Game/raw/main/pathway_initial.png)
+![Initial Launch](https://github.com/BitByBit-05/Where-I-am_Game/blob/main/Initial.png?raw=true)
 
 ### Valid Instruction Set
 ![Valid Instruction Set](https://github.com/your-username/BlackJack_Game/raw/main/pathway_valid.png)
