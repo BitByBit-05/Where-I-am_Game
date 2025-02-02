@@ -23,7 +23,9 @@ Here’s what the program looks like in action:
 ![Initial Launch](https://github.com/BitByBit-05/Where-I-am_Game/blob/main/Initial.png?raw=true)
 
 ### Valid Instruction Set
-![Valid Instruction Set](https://github.com/your-username/BlackJack_Game/raw/main/pathway_valid.png)
+| Output | Visual Representation |
+|---------|---------|
+| ![Image 1](https://github.com/your-username/repo-name/raw/main/image1.png) | ![Image 2](https://github.com/your-username/repo-name/raw/main/image2.png) |
 
 ### Out of Bounds
 ![Out of Bounds](https://github.com/your-username/BlackJack_Game/raw/main/pathway_outofbounds.png)
